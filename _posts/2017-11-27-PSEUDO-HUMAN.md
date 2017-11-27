@@ -1,7 +1,6 @@
-
 ---
 layout: default
-title: Pseudo-Human: Intelligent Assistant
+title: Pseudo-Human
 ---
 
 Pseudo-Human: Intelligent Assistant
